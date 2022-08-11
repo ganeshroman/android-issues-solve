@@ -17,8 +17,10 @@ You can see all the status using cmd. Most of the time adb's home directory ais 
 ->Then you can kill the adb server and start the adb serveer
 
   1.to kill--->> adb kill-server
+  
   2.to start-->> adb start-server
-    All done
+  
+  3. All done
 
 
 
